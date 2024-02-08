@@ -146,6 +146,5 @@
         ],
         "answer": "Determine the file type",
         "colors": ["success.TButton", "danger.TButton", "warning.TButton"],
-    },
-    ## Add more questions here
+    }
 ]
