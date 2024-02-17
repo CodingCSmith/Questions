@@ -1,6 +1,6 @@
 [
   {
-    "question": "1. What does IoT stand for?",
+    "question": "What does IoT stand for?",
     "options": [
       "Internet of Technology",
       "Internet of Things",
@@ -10,12 +10,12 @@
     "answer": "Internet of Things"
   },
   {
-    "question": "2. Which of the following is a common communication protocol in IoT?",
+    "question": "Which of the following is a common communication protocol in IoT?",
     "options": ["HTTP", "SMTP", "FTP", "MQTT"],
     "answer": "MQTT"
   },
   {
-    "question": "3. What is the primary purpose of a firewall in cybersecurity?",
+    "question": "What is the primary purpose of a firewall in cybersecurity?",
     "options": [
       "To filter and control network traffic",
       "To clean and organize data",
