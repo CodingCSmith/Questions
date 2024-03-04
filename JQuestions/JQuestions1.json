@@ -1,0 +1,11 @@
+[
+  {
+    "question": "What is the main function of RAM in a computer?",
+    "answers": [
+      "Store temporary data",
+      "Run the operating system",
+      "Store permanent data"
+    ],
+    "correct_answer": "Store temporary data"
+  }
+]
