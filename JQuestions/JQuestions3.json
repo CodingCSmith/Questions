@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which device is used to input data into a computer?",
+    "answers": ["Keyboard", "Mouse", "Monitor"],
+    "correct_answer": "Keyboard"
+  },
+  {
+    "question": "Which device is used to display data from a computer?",
+    "answers": ["Keyboard", "Mouse", "Monitor"],
+    "correct_answer": "Monitor"
+  },
+  {
+    "question": "Which device is used to move the cursor on a computer screen?",
+    "answers": ["Keyboard", "Mouse", "Monitor"],
+    "correct_answer": "Mouse"
+  },
+  {
+    "question": "Which device is used to store data on a computer?",
+    "answers": ["Hard Drive", "RAM", "CPU"],
+    "correct_answer": "Hard Drive"
+  },
+  {
+    "question": "Which device is used to process data on a computer?",
+    "answers": ["Hard Drive", "RAM", "CPU"],
+    "correct_answer": "CPU"
+  },
+  {
+    "question": "Which device is used to temporarily store data on a computer?",
+    "answers": ["Hard Drive", "RAM", "CPU"],
+    "correct_answer": "RAM"
+  }
+]

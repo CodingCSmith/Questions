@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the symbol for the 'Save' function in most software applications?",
+    "answers": ["S", "P", "A"],
+    "correct_answer": "S"
+  },
+  {
+    "question": "What is the symbol for the 'Print' function in most software applications?",
+    "answers": ["P", "S", "A"],
+    "correct_answer": "P"
+  },
+  {
+    "question": "What is the symbol for the 'Copy' function in most software applications?",
+    "answers": ["C", "V", "A"],
+    "correct_answer": "C"
+  },
+  {
+    "question": "What is the symbol for the 'Paste' function in most software applications?",
+    "answers": ["P", "V", "A"],
+    "correct_answer": "V"
+  },
+  {
+    "question": "What is the symbol for the 'Cut' function in most software applications?",
+    "answers": ["C", "X", "A"],
+    "correct_answer": "X"
+  }
+]
