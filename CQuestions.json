@@ -35,15 +35,11 @@
         "answer": "Filter network traffic",
         "colors": ["success.TButton", "danger.TButton", "warning.TButton"]
     },
-    {
-        "question": "Q5: In the context of computer graphics, what does GIF stand for?",
-        "choices": [
-            "Graphics Interchange Format",
-            "General Image Format",
-            "Graphical Interface Format"
-        ],
-        "answer": "Graphics Interchange Format",
-        "colors": ["success.TButton", "danger.TButton", "warning.TButton"]
+   {
+        "question": "Q5: What do you call a small piece of code that is designed to perform a specific task and can be reused in various programs?",
+        "choices": ["Function", "Variable", "Loop"],
+        "answer": "Function",
+        "colors": ["primary.TButton", "info.TButton", "success.TButton"]
     },
     {
         "question": "Q6: Which company is known for its Windows operating system?",
@@ -85,8 +81,8 @@
     },
     {
         "question": "Q11: Which of the following is a widely used programming language for web development?",
-        "choices": ["COBOL", "Ruby", "Swift"],
-        "answer": "Ruby",
+        "choices": ["COBOL", "HTML", "Swift"],
+        "answer": "HTML",
         "colors": ["success.TButton", "danger.TButton", "warning.TButton"]
     },
     {
@@ -97,14 +93,14 @@
     },
     {
         "question": "Q13: Which technology allows wireless communication between devices over short distances?",
-        "choices": ["Bluetooth", "Wi-Fi", "DSL"],
+        "choices": ["Bluetooth", "exe", "DSL"],
         "answer": "Bluetooth",
         "colors": ["success.TButton", "danger.TButton", "warning.TButton"]
     },
     {
         "question": "Q14: What is the purpose of a QR code?",
-        "choices": ["Store contact information", "Send text messages", "Scan barcodes"],
-        "answer": "Store contact information",
+        "choices": ["To Store information", "Send text messages", "Scan barcodes"],
+        "answer": "To Store information",
         "colors": ["success.TButton", "danger.TButton", "warning.TButton"]
     },
     {
@@ -131,10 +127,10 @@
         "answer": "Antivirus",
         "colors": ["success.TButton", "danger.TButton", "warning.TButton"]
     },
-    {
-        "question": "Q19: Which social media platform is known for sharing short videos?",
-        "choices": ["Facebook", "Instagram", "TikTok"],
-        "answer": "TikTok",
+     {
+        "question": "Q19: What do you use to style the appearance of a web page?",
+        "choices": ["HTML", "CSS", "JavaScript"],
+        "answer": "CSS",
         "colors": ["success.TButton", "danger.TButton", "warning.TButton"]
     },
     {
