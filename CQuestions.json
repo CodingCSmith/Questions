@@ -39,7 +39,7 @@
         "question": "Q5: What do you call a small piece of code that is designed to perform a specific task and can be reused in various programs?",
         "choices": ["Function", "Variable", "Loop"],
         "answer": "Function",
-        "colors": ["primary.TButton", "info.TButton", "success.TButton"]
+        "colors": ["success.TButton", "danger.TButton", "warning.TButton"]
     },
     {
         "question": "Q6: Which company is known for its Windows operating system?",
